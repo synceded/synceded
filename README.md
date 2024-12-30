@@ -1,5 +1,3 @@
-# Hello World! 👋
-
 <p align="center">
   <a href="https://github.com/synceded">
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=synceded&show_icons=false&theme=dark&hide_border=true" />
@@ -12,6 +10,6 @@
 ### Contact me
 <p align="center">
   <a href="https://t.me/synceded">
-    <img height=200 src="https://lanyard.cnrad.dev/api/690320444749906139" />
+    <img height=200 src="https://lanyard.cnrad.dev/api/1144606212629995563" />
   </a>
 </p>
